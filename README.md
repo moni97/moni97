@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moni97.
 - 👀 I’m interested in machine learning or computer vision.
 - 🌱 I’m currently learning Masters in Computer Science in UIC.
-- 💞️ I’m looking to collaborate on Machine learning and computer vision related projects.
+- 💞️ I’m looking to collaborate on full stack projects.
 - 📫 How to reach me msidda2@uic.edu, monisam97@gmail.com.
 
 <!---
